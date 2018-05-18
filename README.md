@@ -3,8 +3,8 @@ Udacity project: Building a Convolutional Neural Network to determine the dog br
 
 To use the interactive jupyter notebook version of this project:
 
-Python is required.
+* Python is required.
 
-If you already have Anaconda, you already have installed Jupyter Notebook. If not, see further instructions here: http://jupyter.readthedocs.io/en/latest/install.html
+* If you already have Anaconda, you already have installed Jupyter Notebook. If not, see further instructions here: http://jupyter.readthedocs.io/en/latest/install.html
 
-Clone the DogBreeds repository, navigate in the terminal to the directory where the Jupyter notebook is located, and start Jupyter with the `jupyter notebook dog_app.ipynb` command.
+* Clone the DogBreeds repository, navigate in the terminal to the directory where the Jupyter notebook is located, and start Jupyter with the `jupyter notebook dog_app.ipynb` command.
